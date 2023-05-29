@@ -1,0 +1,38 @@
+.uxui {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 34px;
+  min-height: 399px;
+  width: 294px;
+}
+
+.x-icon-1 {
+  height: 64px;
+  width: 64px;
+}
+
+.user-experience-design {
+  letter-spacing: 0;
+  line-height: 120.0px;
+  margin-top: 51px;
+  min-height: 41px;
+  white-space: nowrap;
+}
+
+.our-complete-web-des {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 53px;
+  min-height: 189px;
+  width: 290px;
+}
+
+.uxui.app {
+  margin-left: 36px;
+  min-height: 422px;
+}
+
+.uxui.app .our-complete-web-des {
+  min-height: 212px;
+}

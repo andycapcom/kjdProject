@@ -1,0 +1,21 @@
+.group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 88px;
+  min-width: 1280px;
+}
+
+.brand,
+.frame-1,
+.frame-2,
+.frame-15,
+.frame-3 {
+  height: 120px;
+  width: 256px;
+}
+
+.group-5.group-6 {
+  margin-top: unset;
+}
+
